@@ -1,1 +1,2 @@
-Это телеграм бот. Он умеет переводить на якутский, русский, английский.
+Hello!
+This is a telegram bot. He can translate into Sakha, Russian and English.
